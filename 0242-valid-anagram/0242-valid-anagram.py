@@ -1,15 +1,13 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        sorted_s= sorted(s)
-        sorted_t= sorted(t)
-        if len(s)!=len(t):
-            return False 
-        if sorted(s)==sorted(t):
-    
-            return True
-        return False    
+            s=sorted(s)
+            t=sorted(t)
+            if len(t)!=len(s):
+                return False
+            else:
+                if sorted(s)==sorted(t):
+                    return True
+            return False           
 
 
 
-
-        
