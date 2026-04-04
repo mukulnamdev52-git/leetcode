@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukulnamdev52-git/leetcode/tree/master/0001-two-sum) |
+| [0035-search-insert-position](https://github.com/mukulnamdev52-git/leetcode/tree/master/0035-search-insert-position) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,8 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0202-happy-number) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mukulnamdev52-git/leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
