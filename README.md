@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/mukulnamdev52-git/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mukulnamdev52-git/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mukulnamdev52-git/leetcode/tree/master/0042-trapping-rain-water) |
+| [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -64,6 +65,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
 ## Recursion
 |  |
