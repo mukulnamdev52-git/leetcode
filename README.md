@@ -51,6 +51,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/mukulnamdev52-git/leetcode/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/mukulnamdev52-git/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -72,4 +73,12 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mukulnamdev52-git/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/mukulnamdev52-git/leetcode/tree/master/0206-reverse-linked-list) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mukulnamdev52-git/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/mukulnamdev52-git/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
