@@ -9,6 +9,7 @@
 | [0042-trapping-rain-water](https://github.com/mukulnamdev52-git/leetcode/tree/master/0042-trapping-rain-water) |
 | [0128-longest-consecutive-sequence](https://github.com/mukulnamdev52-git/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
@@ -18,6 +19,7 @@
 | [0141-linked-list-cycle](https://github.com/mukulnamdev52-git/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mukulnamdev52-git/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -36,15 +38,18 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/mukulnamdev52-git/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
 ## Math
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0202-happy-number) |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mukulnamdev52-git/leetcode/tree/master/0035-search-insert-position) |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -87,4 +92,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/mukulnamdev52-git/leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
