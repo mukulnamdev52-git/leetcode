@@ -7,12 +7,14 @@
 | [0001-two-sum](https://github.com/mukulnamdev52-git/leetcode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mukulnamdev52-git/leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/mukulnamdev52-git/leetcode/tree/master/0042-trapping-rain-water) |
+| [0128-longest-consecutive-sequence](https://github.com/mukulnamdev52-git/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mukulnamdev52-git/leetcode/tree/master/0001-two-sum) |
+| [0128-longest-consecutive-sequence](https://github.com/mukulnamdev52-git/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mukulnamdev52-git/leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/mukulnamdev52-git/leetcode/tree/master/0242-valid-anagram) |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/mukulnamdev52-git/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mukulnamdev52-git/leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
