@@ -11,6 +11,7 @@
 | [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
 | [0268-missing-number](https://github.com/mukulnamdev52-git/leetcode/tree/master/0268-missing-number) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mukulnamdev52-git/leetcode/tree/master/0860-lemonade-change) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | ------- |
 | [0135-candy](https://github.com/mukulnamdev52-git/leetcode/tree/master/0135-candy) |
 | [0455-assign-cookies](https://github.com/mukulnamdev52-git/leetcode/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/mukulnamdev52-git/leetcode/tree/master/0860-lemonade-change) |
 ## Recursion
 |  |
 | ------- |
